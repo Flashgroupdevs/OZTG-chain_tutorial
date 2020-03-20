@@ -23,11 +23,11 @@ delete the following files:
 banlist, peers
 
 download the correct chain from here: 
-https://github.com/FLASHMONILTD/GITHUB-OZEETY/raw/master/chain-1005-2.zip
+https://github.com/Flashgroupdevs/OZEETY_chain-v2/raw/master/Archive.zip
 
 extract these into the ozeety folder
 
 restart the wallet 
 and wait until it is sync. 
 
-Check again with the getblockhash 92740
+Check again with the getblockhash 327271
