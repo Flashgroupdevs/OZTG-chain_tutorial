@@ -37,7 +37,7 @@ sudo wget https://github.com/Flashgroupdevs/OZEETY_chain-v2/raw/master/Archive.z
 chmod 777 *
 ```
 ```bash
-unzip OZEETY_chain-v2/Archive.zip
+unzip Archive.zip
 ```
 
 ```bash
