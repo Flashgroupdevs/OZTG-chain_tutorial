@@ -11,7 +11,7 @@ sudo mv ozeetyd ozeety-cli ozeety-tx /usr/bin/
 sudo wget https://github.com/Flashgroupdevs/OZEETY_chain-v2/raw/master/Archive.zip
   chmod 777 *
   
-  unzip OZEETY_chain-v2/Archive.zip
+  unzip Archive.zip
   chmod 777 *
   cd
   ozeetyd 
