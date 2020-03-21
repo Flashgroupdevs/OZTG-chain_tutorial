@@ -8,7 +8,7 @@ rm -R -f chainstate blocks .log mn.dat budget.dat peers.dat  mncache.dat mnpayme
 
 wget https://github.com/Flashgroupdevs/OZEETY_chain-v2/raw/master/Archive.zip
 
-unzip OZEETY_chain-v2/Archive.zip
+unzip Archive.zip
  
 cd
 
